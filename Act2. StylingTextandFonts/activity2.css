@@ -1,0 +1,18 @@
+body{
+    background-color: grey;
+}
+
+h1  {
+       color: red;
+       text-align: left;
+       font-size: 80px;
+    }
+
+colors.{
+    color: blue;
+}
+
+p{
+    font-weight: lighter;
+    font-style: Arial;
+    color: yellow;
